@@ -12,5 +12,5 @@ I have experience in developing and maintaining test frameworks, designing test 
 - **Programming Languages:** Java, Python, JavaScript and Bash for test automation and scripting.
 - **API Testing:** Testing RESTful APIs using tools like Postman and RestAssured.
 
-### How many times stalkers have visited my Profile? 😹
+###
 ![visits](https://visitor-badge.laobi.icu/badge?page_id=software-ace.software-ace)
